@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Welcome to EVN • CREATIONS
 
-<!--
-**EVN11-Crtl/EVN11-Crtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Evan, a passionate web developer and UI/UX designer based in the Philippines 🇵🇭.
 
-Here are some ideas to get you started:
+- 🌐 I build responsive and aesthetic websites
+- 💻 Tech stack: HTML, CSS, JavaScript, Node.js
+- 🔭 Currently working on: My portfolio and client projects
+- 📫 Contact me at: evncreations@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+Check out my pinned repositories below!
+
+---
+
+🛠️ *EVN • CREATIONS – Turning design into beautiful code.
