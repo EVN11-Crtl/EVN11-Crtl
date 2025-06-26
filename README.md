@@ -8,6 +8,7 @@
 
 <p align="center">
   <strong><span style="color:#9147FF">RIKARDSON EVAN BANAYBANAY</span></strong><br/>
+  
   <strong>Founder of <span style="color:#9147FF">EVN • CREATIONS</span></strong><br/>
   Passionate Web Developer │ UI/UX Designer │ Coding Artisan 
 </p>
@@ -71,7 +72,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=EVN11-Crtl&label=Profile+Visits&color=00f7ff&icon=2&pretty=true" />
   <p align="center"><strong>🔧 DESIGN POWERED BY <span style="color:#00f7ff;">EVN • CREATIONS</span></strong></p>
 </p>
 
