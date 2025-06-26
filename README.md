@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75454&width=435&lines=Hi%2C+I'm+Rikardson+Evan+Banaybanay;Founder+of+EVN+CREATIONS;Web+Developer+%7C+UI%2FUX+Designer;Turning+ideas+into+beautiful+websites+!" alt="Typing SVG" />
+</h1>
 <h1 align="center">👋 Hello! I'm Rikardson Evan Banaybanay</h1>
 <p align="center">Founder of <strong>EVN • CREATIONS</strong> │ Web Developer │ UI/UX Designer │ Cloud & Full Stack Enthusiast</p>
 
