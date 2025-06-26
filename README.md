@@ -3,12 +3,13 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=EVN+•+CREATIONS;Rikardson+Evan+Banaybanay;Web+Dev+%7C+UI%2FUX+Designer;Code+it+like+Art+🖌️" alt="Flashing Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=EVN+•+CREATIONS;Rikardson+Evan+Banaybanay;Web+Dev+%7C+UI%2FUX+Designer;Code+it+like+Art+✒️" alt="Flashing Text" />
 </h1>
 
 <p align="center">
+  <h1 align="center" style="color:#00f7ff">Rikardson Evan Banaybanay</h1>
   <strong>Founder of <span style="color:#9147FF">EVN • CREATIONS</span></strong><br/>
-  Passionate Web Developer │ UI/UX Designer │ Coding Artisan 💡
+  Passionate Web Developer │ UI/UX Designer │ Coding Artisan 
 </p>
 
 ---
