@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=435&lines=Welcome+to+EVN+•+CREATIONS;Web+Developer+%7C+UI%2FUX+Designer;Creative+Thinker+%2B+Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rikardson+Evan;Founder+of+EVN+CREATIONS;Web+Dev+%7C+UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <h1 align="center" style="color:#00f7ff">👨‍💻 Rikardson Evan Banaybanay</h1>
