@@ -72,6 +72,8 @@
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=EVN11-Crtl&label=Profile+Visits&color=00f7ff&icon=2&pretty=true" />
+  <p align="center"><strong>🔧 DESIGN POWERED BY <span style="color:#00f7ff;">EVN • CREATIONS</span></strong></p>
 </p>
 
-<!-- DESIGN POWERED BY EVN • CREATIONS -->
+
+
