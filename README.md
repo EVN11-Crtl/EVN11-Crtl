@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <h1 align="center" style="color:#00f7ff">Rikardson Evan Banaybanay</h1>
+  <strong><span style="color:#9147FF">RIKARDSON EVAN BANAYBANAY</span></strong><br/>
   <strong>Founder of <span style="color:#9147FF">EVN • CREATIONS</span></strong><br/>
   Passionate Web Developer │ UI/UX Designer │ Coding Artisan 
 </p>
