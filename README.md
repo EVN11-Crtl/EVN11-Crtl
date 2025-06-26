@@ -8,7 +8,9 @@
 
 <p align="center">
   <strong><span style="color:#9147FF">RIKARDSON EVAN BANAYBANAY</span></strong><br/>
-  
+</p>
+
+<p align="center">
   <strong>Founder of <span style="color:#9147FF">EVN • CREATIONS</span></strong><br/>
   Passionate Web Developer │ UI/UX Designer │ Coding Artisan 
 </p>
